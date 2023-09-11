@@ -10,3 +10,8 @@
 7. LDR Circuit
 8. Motor Driver Circuit
 9. Bistable Circuit
+10. 5V Regulated supply
+11. Relay circuit
+12. Magnetic switch
+13. 7 segment
+    
