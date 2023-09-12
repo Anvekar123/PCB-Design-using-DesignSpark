@@ -14,4 +14,5 @@
 11. Relay circuit
 12. Magnetic switch
 13. 7 segment
+14. Number_Game_Circuit
     
